@@ -1,11 +1,11 @@
 <img src="https://enotas.com.br/blog/wp-content/uploads/2021/02/linguagem-de-programa%C3%A7%C3%A3o.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-   Olá, meu nome é Rudieri Machado. Sou Desenvolvedor Front-end e estudante Full-Stack. 
+    Olá, meu nome é Rudieri Machado. Sou Desenvolvedor Front-end e estudante Full-Stack. 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Html, Css, Javascript , React , Python , Angular , SQL.</strong>
+   Linguagens: <strong>Html, Css, Javascript , React , Python , Angular , SQL.</strong>
 </p>
 
 <p align="left">
